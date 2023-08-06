@@ -1,0 +1,16 @@
+a
+{
+    margin-left: 1300px;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+}
+body
+{
+    background-size: cover;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px rgb(red, green, blue);
+    border-radius: 20px;
+}
